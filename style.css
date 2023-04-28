@@ -3,4 +3,16 @@
 }
 header{
     font-size: 1.2rem;
-  }
+}
+
+.navbar-brand strong{
+    font-weight: normal;
+    border-bottom: 3px solid rgb(255, 0, 0);
+    border-radius: 2px;
+}
+
+.container{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+}
