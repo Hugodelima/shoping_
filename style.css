@@ -28,15 +28,17 @@ header{
     text-align: center;
     text-decoration: none;
 }
-.text_simple h3{
+.text_simple h5{
     text-align: center;
 }
 .text_simple img{
+    margin-bottom: 1rem;
     text-align: center;
 }
   
 
 .text_simple a{
     text-decoration: none;
+    color: black;
 }
 
