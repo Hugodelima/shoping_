@@ -45,7 +45,13 @@ header{
     color: black;
 }
 
-.submit_email{
+.submit_email h5{
     display: flex;
     justify-content: center;
+    margin: 2rem auto;
+}    
+
+
+.text-reset {
+    text-decoration: none;
 }
