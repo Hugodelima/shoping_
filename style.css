@@ -55,3 +55,10 @@ header{
 .text-reset {
     text-decoration: none;
 }
+
+
+.submit_s{
+    display: flex;
+    justify-content: center;
+}
+
