@@ -65,7 +65,7 @@ header{
 
 
 .container_2{
-    margin-top: 3rem;
+    margin-top: 3rem auto;
     display: flex;
     justify-content: center;
     
