@@ -160,3 +160,14 @@ strong{
         max-width: 300px;
     }
 }
+
+
+@media (max-width:898px){
+    .submit_fr *{
+        max-width: 240px;
+        display: flex;
+        justify-content: center;
+    
+    }
+
+}
