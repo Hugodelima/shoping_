@@ -135,9 +135,9 @@ strong{
     text-decoration: none;
     color: black;
 }
-
-
-
+.simple{
+    padding: 10px;
+}
 
 @media (max-width:347px){
     .navbar-brand{
