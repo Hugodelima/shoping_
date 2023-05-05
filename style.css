@@ -125,6 +125,7 @@ strong{
     justify-content: center;
     margin: 0 auto;
     border: 1rem;
+    max-width: 100%;
     box-sizing: border-box;
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
 }
@@ -142,9 +143,7 @@ strong{
     .navbar-brand{
        font-size: 130%;
     }
-    body{
-        margin: -10px;
-    }
+    
     form{
         font-size: 1px;
     }
