@@ -18,9 +18,7 @@ header{
 strong{
     color:red;
 }
-.loc_footer{
-    margin-top: 11rem;
-}
+
 
 
 .image_responsiva{
@@ -235,4 +233,13 @@ strong{
 
 }
 
+main {
+    padding-bottom: 19rem;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
   
