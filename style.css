@@ -265,5 +265,15 @@ strong{
 
     }
 }
+@media screen and (min-height: 1768px) and (max-height: 3900px) {
+    
+    
+    .rod_end3{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+
+    }
+}
 
 
